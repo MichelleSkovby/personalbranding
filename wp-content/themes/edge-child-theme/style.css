@@ -1,0 +1,46 @@
+/*
+ Theme Name:   Edge Child Theme
+ Theme URI:    http://localhost/wordpresslocalhost/edge-child-theme/
+ Description:  Edge Child Theme
+ Author:       Michelle Skovby
+ Author URI:   http://portfolio.michelleskovby.dk
+ Template:     edge
+ Version:      1.2.1
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  edgechildtheme
+*/
+
+
+
+body {
+    background-color: #ffffff; 
+    }
+
+.site-info { display: none; }
+
+a:hover { 
+color: #c8c1b3 !important;
+}
+
+h1 {
+  color: #c8c1b3 !important;
+font-size: 32px !important;
+}
+
+h2 {
+  color: #c8c1b3 !important;
+    font-size: 23px !important;
+}
+
+h6 {
+  color: #c8c1b3 !important;
+}
+
+p {
+  color: #000000 !important;
+  font-size: 15px !important;
+}
+
+
